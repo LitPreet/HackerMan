@@ -5,3 +5,5 @@ This project was a amazing challenge .
 
 but I really enjoyed it
 
+<a href = "https://hacker-man-69.netlify.app/">Live preview</a>
+
